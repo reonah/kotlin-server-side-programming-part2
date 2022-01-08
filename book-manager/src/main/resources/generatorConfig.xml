@@ -13,7 +13,7 @@
         </commentGenerator>
         <jdbcConnection
                 driverClass="com.mysql.jdbc.Driver"
-                connectionURL="jdbc:mysql://127.0.0.1:3306/book_manager"
+                connectionURL="jdbc:mysql://127.0.0.1:4306/book_manager"
                 userId="root"
                 password="mysql">
             <property name="nullCatalogMeansCurrent" value="true"/>
